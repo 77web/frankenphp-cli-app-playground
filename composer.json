@@ -2,6 +2,7 @@
     "name": "nanaweb/myhello",
     "type": "project",
     "require": {
+        "php": "^8.2",
         "symfony/console": "^7.0"
     },
     "require-dev": {
